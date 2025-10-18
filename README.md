@@ -309,7 +309,7 @@ result = predictor.predict({"inputs": "Your resume text here"})
 
 ## 📬 Contact
 
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/imamajawad/)
+- LinkedIn: (https://www.linkedin.com/in/imamajawad/)
 - Email: imama.muhammad@gmail.com
 
 **Questions?** Open an issue or reach out!
