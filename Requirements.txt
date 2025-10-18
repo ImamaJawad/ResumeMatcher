@@ -1,0 +1,11 @@
+sentence-transformers
+transformers
+torch
+datasets
+PyPDF2
+python-docx
+numpy
+pandas
+scikit-learn
+sagemaker
+boto3
